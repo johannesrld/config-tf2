@@ -1,9 +1,0 @@
-** tf2config
-*** My Team Fortress 2 Scripts/binds/settings
-
-
-**** TODO
-- Images of various settings effects in a nice document
-- Map of keybindings
-- Python script to change settings
-- Improve readability
