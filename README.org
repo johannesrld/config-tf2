@@ -5,3 +5,12 @@
 - Map of keybindings
 - Python script to change settings
 - Improve readability
+**** Requirements:
+- [[https://mastercomfig.com/][Mastercom's Mastercomfig]]
+	- you can choose any settings you want, however keep in mind that the any settings will be overwritten by ~modules.cfg~ and ~pre_comfig.cfg~, notably:
+	  - the default preset will always be low (pre_comfig) exluding some overrides like antistropy and gibs/ragdolls (modules)
+	  - settings like hiding chat by default is enabled (modules)
+	  - vsync is enabled
+	  - sound is set to ultra
+	  - certain hud elements are enabled/disabled (player avatars etc)
+- Up to date Team Fortress 2 (duh)
