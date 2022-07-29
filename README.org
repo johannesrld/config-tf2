@@ -7,10 +7,10 @@
 - Improve readability
 **** Requirements:
 - [[https://mastercomfig.com/][Mastercom's Mastercomfig]]
-	- you can choose any settings you want, however keep in mind that the any settings will be overwritten by ~modules.cfg~ and ~pre_comfig.cfg~, notably:
+	- You can choose any settings you want, however keep in mind that the any settings will be overwritten by ~modules.cfg~ and ~pre_comfig.cfg~, notably:
 	  - The default preset will always be low (pre_comfig) excluding some overrides like anisotropy and gibs/ragdolls (modules)
 	  - Settings like hiding chat by default is enabled (modules)
 	  - Vsync is enabled
 	  - Sound is set to ultra
-	  - certain HUD elements are enabled/disabled (player avatars etc)
+	  - Certain HUD elements are enabled/disabled (player avatars etc)
 - Up to date Team Fortress 2 (duh)
