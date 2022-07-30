@@ -14,3 +14,4 @@
 	  - Sound is set to ultra
 	  - Certain HUD elements are enabled/disabled (player avatars etc)
 - Up to date Team Fortress 2 (duh)
+- [[https://www.autohotkey.com/][AutoHotKey]] for the vaccinator script, I plan on making an equivalent Kmonad script for linux lovers (or people who just like KMonad in general)
